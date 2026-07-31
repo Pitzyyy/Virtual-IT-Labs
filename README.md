@@ -4,4 +4,4 @@ IT Grad | IT Support | Active Directory
 I develop hands-on IT lab environments that mirror the everyday 
 challenges of help desk support and systems administration.
 
-<h1>Active Directory Projects</h1>
+<h2>Active Directory Projects</h2>
