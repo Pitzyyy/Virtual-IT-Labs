@@ -9,7 +9,9 @@ challenges of help desk support and systems administration.
 
 - Basic Active Directory Operation: <br>
   [User Creation](https://github.com/Pitzyyy/Active-Directory-User-Setup)<br>
-  [Setting up GPOs Password Policy](https://github.com/Pitzyyy/Setup_GPOs)<br>
+  
+- Setting up GPOs and implementing them: <br>
+  [Password-Policy](https://github.com/Pitzyyy/Setup_GPOs)<br>
 
 
 
