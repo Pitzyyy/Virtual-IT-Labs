@@ -10,7 +10,7 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
   [User Creation](https://github.com/Pitzyyy/Active-Directory-User-Setup)<br>
   
 - Setting up GPOs and implementing them: <br>
-  [Password-Policy](https://github.com/Pitzyyy/Setup_GPOs)<br>
+  [5 Sample Activities Setting up GPOs](https://github.com/Pitzyyy/Setup_GPOs)<br>
 
 
 
