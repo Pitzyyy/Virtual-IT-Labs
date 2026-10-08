@@ -8,9 +8,11 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
 - Windows Server 2022 Setup: <br>
   [Windows Server Installation & Configuration Guide](https://github.com/Pitzyyy/Setting-Up-Window-Server)<br>
 
-- Windows Enterprise  Setup: <br>
+- Windows 10 Client VM Setup:: <br>
   [Windows Enterprise Installation & Configuration Guide](https://github.com/Pitzyyy/Windows-Server-2022-Setup)<br>
-
+  
+- Domain Joining Activity:: <br>
+  [Joining a Workstation to Active Directory Domain](https://github.com/Pitzyyy/Windows-Server-2022-Setup)<br>
 
 ## Active Directory Projects
 
