@@ -12,7 +12,7 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
   [Windows Enterprise Installation & Configuration Guide](https://github.com/Pitzyyy/Windows-Server-2022-Setup)<br>
   
 - Domain Joining Activity:: <br>
-  [Joining a Workstation to Active Directory Domain](https://github.com/Pitzyyy/Windows-Server-2022-Setup)<br>
+  [Joining a Workstation to Active Directory Domain](https://github.com/Pitzyyy/Joining-a-Workstation-to-Active-Directory-Domain)<br>
 
 ## Active Directory Projects
 
