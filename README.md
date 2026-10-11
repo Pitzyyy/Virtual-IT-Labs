@@ -11,11 +11,11 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
 - Windows 10 Client VM Setup:: <br>
   [Windows Enterprise Installation & Configuration Guide](https://github.com/Pitzyyy/Windows-Server-2022-Setup)<br>
   
-- Domain Joining Activity:: <br>
-  [Joining a Workstation to Active Directory Domain](https://github.com/Pitzyyy/Joining-a-Workstation-to-Active-Directory-Domain)<br>
 
 ## Active Directory Projects
 
+- Domain Joining Activity:: <br>
+  [Joining a Workstation to Active Directory Domain](https://github.com/Pitzyyy/Joining-a-Workstation-to-Active-Directory-Domain)<br>
 
 - Basic Active Directory Operation: <br>
   [User Creation](https://github.com/Pitzyyy/Active-Directory-User-Setup)<br>
@@ -23,5 +23,7 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
 - Setting up GPOs and implementing them: <br>
   [5 Sample Activities Setting up GPOs](https://github.com/Pitzyyy/Setup_GPOs)<br>
 
+- Implementing Security Policies: <br>
+  [5 Sample Activities Setting up GPOs](https://github.com/Pitzyyy/Setup_GPOs)<br>
 
 
