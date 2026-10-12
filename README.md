@@ -24,6 +24,9 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
   [5 Sample Activities Setting up GPOs](https://github.com/Pitzyyy/Setup_GPOs)<br>
 
 - Implementing Security Policies: <br>
-  [5 Sample Activities Setting up GPOs](https://github.com/Pitzyyy/Implementing-Security-Policies)<br>
+  [Domain Security Policies & GPO Enforcement](https://github.com/Pitzyyy/Implementing-Security-Policies)<br>
+  
+- File Sharing & Permission Management: <br>
+  [NTFS vs. Shared Folder Permissions & Access Control](https://github.com/Pitzyyy/File-Sharing-NTFS-vs-Shared-Permissions)<br>
 
 
