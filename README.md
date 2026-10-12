@@ -1,20 +1,20 @@
 # Hi, I'm Jun! 
 IT Grad | IT Support 
 
-IT Systems & Support Specialist with hands-on experience designing and deploying simulated enterprise lab environments. Proven expertise in Active Directory,Microsoft 365 tools, and client-server troubleshooting. Adapt at handling hardware/software maintenance, network support, and desktop security controls, and troubleshooting client-server infrastructure to model real-world help desk and system administration scenarios.
+IT Systems & Support Specialist with hands-on experience designing and deploying simulated enterprise lab environments. Proven expertise in Active Directory, Microsoft 365 tools, and client-server troubleshooting. Adept at handling hardware/software maintenance, network support, desktop security controls, and troubleshooting client-server infrastructure to model real-world help desk and system administration scenarios.
 
 ## Setting up VM Windows Server & Windows Client VM
 
 - Windows Server 2022 Setup: <br>
   [Windows Server Installation & Configuration Guide](https://github.com/Pitzyyy/Setting-Up-Window-Server)<br>
 
-- Windows 10 Client VM Setup:: <br>
+- Windows 10 Client VM Setup: <br>
   [Windows Enterprise Installation & Configuration Guide](https://github.com/Pitzyyy/Windows-Server-2022-Setup)<br>
   
 
 ## Active Directory Projects
 
-- Domain Joining Activity:: <br>
+- Domain Joining Activity: <br>
   [Joining a Workstation to Active Directory Domain](https://github.com/Pitzyyy/Joining-a-Workstation-to-Active-Directory-Domain)<br>
 
 - Basic Active Directory Operation: <br>
@@ -28,5 +28,11 @@ IT Systems & Support Specialist with hands-on experience designing and deploying
   
 - File Sharing & Permission Management: <br>
   [NTFS vs. Shared Folder Permissions & Access Control](https://github.com/Pitzyyy/File-Sharing-NTFS-vs-Shared-Permissions)<br>
+
+
+## Help Desk Simulator & Ticketing Operations
+
+- IT Support Ticket Simulations: <br>
+  [ServiceDesk Incident Management & Troubleshooting Logs](https://github.com/Pitzyyy/HelpDesk-Simulator-Logs)<br>
 
 
